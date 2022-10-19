@@ -1,0 +1,1 @@
+Change your password <a href="http://exams-suntech.test/api/v1/users/reset-password/{{$token}}">here</a>
